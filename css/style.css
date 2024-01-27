@@ -229,6 +229,7 @@ ul {
 .communication {
     position: fixed !important;
     bottom: 80px;
+    left: 10px;
     z-index: 5;
 }
 
@@ -244,7 +245,6 @@ ul {
     text-align: center;
     line-height: 50px;
     color: white;
-    box-shadow: 1px 1px 1px 3px white !important;
 }
 
 /* Communication */
